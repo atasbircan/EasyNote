@@ -60,8 +60,8 @@ namespace EasyNote
 
             //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             //{
-            //    ClientId = "",
-            //    ClientSecret = ""
+            //    ClientId = "***gizlilik nedeniyle silindi***",
+            //    ClientSecret = "***gizlilik nedeniyle silindi***"
             //});
         }
     }
